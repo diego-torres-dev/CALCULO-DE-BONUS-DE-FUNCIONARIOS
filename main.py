@@ -15,7 +15,7 @@ def calcular_bonus(vendas_funcionario):
     """Calcula o bônus que o funcionário receberá com base no valor total de suas vendas
 
         Parâmetro:
-            vendas_funcionarios (float): valor das vendas do funcionário
+            vendas_funcionario (float): valor das vendas do funcionário
 
         Retorna:
             bonus_funcionario (float): retorna o valor do bônus do funcionário
